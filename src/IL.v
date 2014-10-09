@@ -1,6 +1,6 @@
 (** Definition of a simple intermediate language *)
 
-Require Import Arith Div2 List NArith.
+Require Import Arith Div2 List NArith Omega.
 Require Export Labels.
 
 Require Import Nomega Word Memory.

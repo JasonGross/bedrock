@@ -1,6 +1,6 @@
 (* Laying out labels, and generally coming up with final "machine code" programs *)
 
-Require Import NArith.
+Require Import NArith Omega.
 
 Require Import Nomega Word IL LabelMap PropX XCAP Memory.
 
